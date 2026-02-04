@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<html lang="en">
+  <head>
+    <title>Doing your best pancake</title>
+    <meta charset="UTF-8">
+    </head>
+  <body>
+    <h1>Warning!:This page might be make one hungary.</h1>
+    <p>if we want to delicious taste we have to follow instructions</p>
+    <h2>Ingredients</h2>
+    <ul>
+     <li>100g plain flour</li>
+<li>2 large eggs</li>
+<li>300ml milk</li>
+<li>1 tbsp sunflower or vegetable oil</li>
+<li>caster sugar. to serve (optional)</li>
+</ul>
+<h2>Instructions</h2>
+  <ol>
+    <li> Mix the dry ingredients.</li> 
+    <li>In a large bowl, whisk together the flour, baking powder, sugar, and salt.</li>
+<li>Mix the wet ingredients. In another bowl, whisk the eggs and milk until evenly combined</li>
+<li>Combine everything</li>
+<li>Cook the pancakes</li>
+<li>Flip and finish</li>
+</ol>
+
+<img src="https://cdn.freecodecamp.org/curriculum/labs/recipe.jpg" alt="photo about to recipe">
+</body>
+</html>
+
+
